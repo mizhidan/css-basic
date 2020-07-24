@@ -89,6 +89,7 @@ p {
 .pull-quote {
     width: 400px;
     margin: 0 auto !important;
+    border: red 1px dashed;
 }
 
 .byline {
